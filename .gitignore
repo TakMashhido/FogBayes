@@ -1,6 +1,8 @@
 # Virtual environment
 .venv/
 venv/
+.claude/
+.gitignore
 
 # Python bytecode caches
 __pycache__/
